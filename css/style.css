@@ -85,7 +85,7 @@
     align-items: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     max-width: 70%;
-    margin: auto;
+    margin:auto;
     height: 75%;
 }
 
@@ -257,6 +257,7 @@
         opacity: 0;
     }
     .boxmain{
+        
         flex-direction: column-reverse;
         max-width: 100%;
         color: white;
@@ -269,6 +270,19 @@
     .paras{
         padding:0;
     }
+    
+    .secondhalf{
+        margin-top:159px;
+    }
+
+
+.firstsection{
+    padding-bottom: 78px;
 }
 
+.btn1{
+    width: 108px;
+    
+}
 
+}
